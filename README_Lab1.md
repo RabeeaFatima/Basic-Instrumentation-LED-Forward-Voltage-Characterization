@@ -44,7 +44,7 @@ The **blue LED** required the highest forward voltage to conduct, consistent wit
 - Importance of proper wiring and grounding.
 
 ---
-![Breadboard Setup](Images/bhqdefault.jpg)hqdefault.jpg
+![Breadboard Setup](Images/hqdefault.jpg)hqdefault.jpg
 ## 📂 Repository Structure
 ```
 LED-Characterization/
